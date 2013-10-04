@@ -1,0 +1,14 @@
+---
+git:
+  repo: 'http://gitlabhq.dev.contx.williamhill.plc/gitlab/modules/git.git'
+  ref:  '1.1'
+
+profile_build:
+  repo: 'http://gitlabhq.dev.contx.williamhill.plc/gitlab/profiles/profile_build.git'
+  ref:  '1.1'
+
+firewall:
+  repo: 'https://github.com/puppetlabs/puppetlabs-firewall.git',
+  ref:  '0.4.0'
+
+
